@@ -1,4 +1,4 @@
-# CpG Prediction Program
+# CpG Island Prediction Program
 The program `dinucleotide.py` calculates the frequency of each dinucleotide, compares each dinucleotide’s observed and expected frequencies, and prints out dinucleotides with a significant difference between their observed and expected frequencies. It also models CpG regions via Markov chains, and predicts CpG islands with evaluation metrics (true positive, false positive, false negative).
 
 The general command format is as follows:
